@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1871-jump-game-vii](https://github.com/soundarya635/leetcode-solutions/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
@@ -33,8 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soundarya635/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/soundarya635/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/soundarya635/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/soundarya635/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->

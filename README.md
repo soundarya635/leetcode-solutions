@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soundarya635/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/soundarya635/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/soundarya635/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -57,11 +58,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/soundarya635/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/soundarya635/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/soundarya635/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0394-decode-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0394-decode-string) |
 | [1871-jump-game-vii](https://github.com/soundarya635/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/soundarya635/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/soundarya635/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0394-decode-string) |
 ## Database
 |  |
 | ------- |

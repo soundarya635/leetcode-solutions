@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/soundarya635/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/soundarya635/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0394-decode-string) |
 | [1871-jump-game-vii](https://github.com/soundarya635/leetcode-solutions/tree/master/1871-jump-game-vii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/soundarya635/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/soundarya635/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Counting
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/soundarya635/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/soundarya635/leetcode-solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->

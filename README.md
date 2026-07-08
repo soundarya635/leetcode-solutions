@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/soundarya635/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1871-jump-game-vii](https://github.com/soundarya635/leetcode-solutions/tree/master/1871-jump-game-vii) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/soundarya635/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/soundarya635/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/soundarya635/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/soundarya635/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/soundarya635/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/soundarya635/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |

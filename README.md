@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/soundarya635/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soundarya635/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/soundarya635/leetcode-solutions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soundarya635/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soundarya635/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/soundarya635/leetcode-solutions/tree/master/0169-majority-element) |
@@ -139,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/soundarya635/leetcode-solutions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->

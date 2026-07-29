@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/soundarya635/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/soundarya635/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/soundarya635/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/soundarya635/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soundarya635/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soundarya635/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/soundarya635/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/soundarya635/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/soundarya635/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/soundarya635/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soundarya635/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/soundarya635/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/soundarya635/leetcode-solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/soundarya635/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/soundarya635/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/soundarya635/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Counting

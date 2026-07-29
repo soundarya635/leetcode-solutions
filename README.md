@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/soundarya635/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/soundarya635/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soundarya635/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soundarya635/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/soundarya635/leetcode-solutions/tree/master/1871-jump-game-vii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/soundarya635/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/soundarya635/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/soundarya635/leetcode-solutions/tree/master/1871-jump-game-vii) |
 ## Two Pointers
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/soundarya635/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/soundarya635/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soundarya635/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/soundarya635/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Sorting
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/soundarya635/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/soundarya635/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/soundarya635/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soundarya635/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/soundarya635/leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/soundarya635/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/soundarya635/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soundarya635/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soundarya635/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/soundarya635/leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/soundarya635/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/soundarya635/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/soundarya635/leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/soundarya635/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/soundarya635/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/soundarya635/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/soundarya635/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Matrix
 |  |
 | ------- |

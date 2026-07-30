@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/soundarya635/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/soundarya635/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/soundarya635/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/soundarya635/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0394-decode-string) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soundarya635/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/soundarya635/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soundarya635/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/soundarya635/leetcode-solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/soundarya635/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/soundarya635/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0394-decode-string) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/soundarya635/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/soundarya635/leetcode-solutions/tree/master/0135-candy) |
 ## Monotonic Stack

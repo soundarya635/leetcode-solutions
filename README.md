@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/soundarya635/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/soundarya635/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/soundarya635/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/soundarya635/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soundarya635/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/soundarya635/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/soundarya635/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/soundarya635/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/soundarya635/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soundarya635/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/soundarya635/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/soundarya635/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |

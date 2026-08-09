@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/soundarya635/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/soundarya635/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soundarya635/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0394-decode-string) |
 ## Database
@@ -238,14 +240,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 ## DP on Trees
 |  |

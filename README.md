@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0516-longest-palindromic-subsequence](https://github.com/soundarya635/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [1035-uncrossed-lines](https://github.com/soundarya635/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/soundarya635/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/soundarya635/leetcode-solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/soundarya635/leetcode-solutions/tree/master/1871-jump-game-vii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/soundarya635/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soundarya635/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1035-uncrossed-lines](https://github.com/soundarya635/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soundarya635/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/soundarya635/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Sorting
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1035-uncrossed-lines](https://github.com/soundarya635/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/soundarya635/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |

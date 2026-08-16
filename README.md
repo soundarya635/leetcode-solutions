@@ -251,16 +251,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/soundarya635/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/soundarya635/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/soundarya635/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 ## DP on Trees
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/soundarya635/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/soundarya635/leetcode-solutions/tree/master/0077-combinations) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/soundarya635/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

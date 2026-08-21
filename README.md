@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/soundarya635/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/soundarya635/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/soundarya635/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/soundarya635/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/soundarya635/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/soundarya635/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/soundarya635/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/soundarya635/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/soundarya635/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/soundarya635/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |

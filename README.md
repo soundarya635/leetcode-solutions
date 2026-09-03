@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soundarya635/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/soundarya635/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/soundarya635/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2090-k-radius-subarray-averages](https://github.com/soundarya635/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/soundarya635/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soundarya635/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/soundarya635/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2090-k-radius-subarray-averages](https://github.com/soundarya635/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/soundarya635/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/soundarya635/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Sorting

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/soundarya635/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/soundarya635/leetcode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0516-longest-palindromic-subsequence](https://github.com/soundarya635/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/soundarya635/leetcode-solutions/tree/master/1035-uncrossed-lines) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/soundarya635/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/soundarya635/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/soundarya635/leetcode-solutions/tree/master/0322-coin-change) |
 | [0643-maximum-average-subarray-i](https://github.com/soundarya635/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/soundarya635/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/soundarya635/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/soundarya635/leetcode-solutions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/soundarya635/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/soundarya635/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Algorithm X
@@ -352,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/soundarya635/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/soundarya635/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/soundarya635/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

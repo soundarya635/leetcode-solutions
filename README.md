@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/soundarya635/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/soundarya635/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/soundarya635/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/soundarya635/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/soundarya635/leetcode-solutions/tree/master/0394-decode-string) |
 ## Stack
 |  |

@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0419-battleships-in-a-board](https://github.com/soundarya635/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
+| [0547-number-of-provinces](https://github.com/soundarya635/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/soundarya635/leetcode-solutions/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/soundarya635/leetcode-solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/soundarya635/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/soundarya635/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/soundarya635/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Algorithm X
@@ -374,4 +376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/soundarya635/leetcode-solutions/tree/master/0322-coin-change) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/soundarya635/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/soundarya635/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

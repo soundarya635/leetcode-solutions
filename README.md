@@ -314,12 +314,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/soundarya635/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/soundarya635/leetcode-solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/soundarya635/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/soundarya635/leetcode-solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0419-battleships-in-a-board](https://github.com/soundarya635/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/soundarya635/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/soundarya635/leetcode-solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soundarya635/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/soundarya635/leetcode-solutions/tree/master/0337-house-robber-iii) |
 ## DP on Trees
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/soundarya635/leetcode-solutions/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/soundarya635/leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/soundarya635/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/soundarya635/leetcode-solutions/tree/master/0733-flood-fill) |

@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/soundarya635/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soundarya635/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/soundarya635/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1905-count-sub-islands](https://github.com/soundarya635/leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [2090-k-radius-subarray-averages](https://github.com/soundarya635/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/soundarya635/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/soundarya635/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/soundarya635/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/soundarya635/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/soundarya635/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1905-count-sub-islands](https://github.com/soundarya635/leetcode-solutions/tree/master/1905-count-sub-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/soundarya635/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/soundarya635/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/soundarya635/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1905-count-sub-islands](https://github.com/soundarya635/leetcode-solutions/tree/master/1905-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/soundarya635/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/soundarya635/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/soundarya635/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1905-count-sub-islands](https://github.com/soundarya635/leetcode-solutions/tree/master/1905-count-sub-islands) |
 ## Algorithm X
 |  |
 | ------- |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/soundarya635/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1905-count-sub-islands](https://github.com/soundarya635/leetcode-solutions/tree/master/1905-count-sub-islands) |
 ## Graph Theory
 |  |
 | ------- |

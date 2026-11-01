@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/soundarya635/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/soundarya635/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/soundarya635/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/soundarya635/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soundarya635/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/soundarya635/leetcode-solutions/tree/master/0135-candy) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/soundarya635/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/soundarya635/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
